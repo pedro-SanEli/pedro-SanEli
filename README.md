@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**pedro-SanEli/pedro-SanEli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá! Eu sou Pedro Santos
 
-Here are some ideas to get you started:
+🎓 Estudante de Engenharia de Software | 💻 Desenvolvedor em formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Seja bem-vindo(a) ao meu perfil do GitHub!
+
+Sou estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento de software. Estou sempre buscando aprender novas tecnologias, desenvolver projetos e aprimorar minhas habilidades na programação.
+
+## 🚀 Sobre mim
+
+- 🎓 Cursando Engenharia de Software (2026–2029).
+- 📚 Técnico em Administração concluído em 2025.
+- 💡 Interesse em desenvolvimento de software e tecnologia.
+- 🤝 Boa comunicação e facilidade para trabalhar em equipe.
+- 🎯 Buscando novos desafios e crescimento profissional.
+
+## 💻 Tecnologias e Ferramentas
+
+*Em constante aprendizado!*
+
+<!-- Adicione aqui suas tecnologias -->
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+
+## 📫 Contato
+
+- 📧 E-mail: pedrosantoeli31@gmail.com
+- 💻 GitHub: [Meu perfil](https://github.com/SEU_USUARIO)
+
+---
+
+⭐ "A tecnologia transforma ideias em soluções. Estou aqui para aprender, criar e evoluir a cada linha de código."
